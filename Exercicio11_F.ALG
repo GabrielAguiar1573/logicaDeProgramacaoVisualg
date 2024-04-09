@@ -1,18 +1,18 @@
 Algoritmo "Revendedora carros"
-// Disciplina   : Lógica de Programação com JavaScript
+// Disciplina   : LÃ³gica de ProgramaÃ§Ã£o com JavaScript
 // Professor   : Jailson
-// Descrição   : Mostra o antecessor do número digitado
+// DescriÃ§Ã£o   : Mostra o antecessor do nÃºmero digitado
 // Autor(a)    : Gabriel Henrique
 // Data atual  : 18/03/2024
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
 vendas, comissao: inteiro
 salario_fixo, valor_vendas, salario_final: real
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
 escreva ("Digite a quantidade de vendas realizadas:")
 leia (vendas)
