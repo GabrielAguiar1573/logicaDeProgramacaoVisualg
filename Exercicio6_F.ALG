@@ -1,17 +1,17 @@
 Algoritmo "Retangulo"
 // Disciplina   : Logica de programacao com JavaScript
 // Professor   : Jailson
-// Descrição   : Mostra o antecessor
+// DescriÃ§Ã£o   : Mostra o antecessor
 // Autor(a)    : Gabriel Henrique
 // Data atual  : 14/03/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
 area, base, altura: real
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
 escreva ("Digite a altura:")
 leia (altura)
