@@ -1,25 +1,25 @@
 Algoritmo "Carro imposto"
-// Disciplina   : Lógica de Programação com JavaScript
+// Disciplina   : LÃ³gica de ProgramaÃ§Ã£o com JavaScript
 // Professor   : Jailson
-// Descrição   : Caçculo de preço do carro
+// DescriÃ§Ã£o   : CaÃ§culo de preÃ§o do carro
 // Autor(a)    : Gabriel Henrique
 // Data atual  : 18/03/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
 preco_fabrica, dist_perc, imposto, preco_final: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
-escreva ("Digite o preço de fábrica do carro:")
+escreva ("Digite o preÃ§o de fÃ¡brica do carro:")
 leia (preco_fabrica)
 
 dist_perc <- preco_fabrica * 0.28
 imposto <- preco_fabrica * 0.45
 
 preco_final <- preco_fabrica + dist_perc + imposto
-escreva ("O preço final do carro é:", preco_final)
+escreva ("O preÃ§o final do carro Ã©:", preco_final)
 
 
 
