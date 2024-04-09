@@ -1,19 +1,19 @@
 Algoritmo "Salario"
-// Disciplina   : LÛgica de ProgramaÁ„o com JavaScript
+// Disciplina   : L√≥gica de Programa√ß√£o com JavaScript
 // Professor   : Jailson
-// DescriÁ„o   : Calcular percentual do sal·rio
+// Descri√ß√£o   : Calcular percentual do sal√°rio
 // Autor(a)    : Gabriel Henrique
 // Data atual  : 15/03/2024
 Var
-// SeÁ„o de DeclaraÁıes das vari·veis 
+// Se√ß√£o de Declara√ß√µes das vari√°veis 
 
 salario, percentual, salario_r: real
 
 
 Inicio
-// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
 
-escreva ("Digite seu sal·rio atual:")
+escreva ("Digite seu sal√°rio atual:")
 leia (salario)
 
 escreva ("Digite o percentual de reajuste em forma decimal:")
