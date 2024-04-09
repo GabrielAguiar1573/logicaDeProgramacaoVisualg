@@ -1,22 +1,22 @@
 Algoritmo "Soma"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Soma de dois valores
+// DescriÃ§Ã£o   : Soma de dois valores
 // Autor(a)    : Gabriel Henrique
 // Data atual  : 11/03/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 valor1:inteiro
 valor2:inteiro
 soma:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
 Escreval ("Digite o primeiro valor:")
 Leia (valor1)
 Escreval ("Digite o segundo valor:")
 Leia (valor2)
 soma <- valor1+valor2
-Escreval ("A soma dos valores digitados é:", soma)
+Escreval ("A soma dos valores digitados Ã©:", soma)
 Fimalgoritmo
